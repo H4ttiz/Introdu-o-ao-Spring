@@ -1,0 +1,10 @@
+com\example\meu_primeiro_springboot\model\Usuario.class
+com\example\meu_primeiro_springboot\controller\ProdutoController.class
+com\example\meu_primeiro_springboot\exceptions\GlobalExceptionHandler.class
+com\example\meu_primeiro_springboot\MeuPrimeiroSpringbootApplication.class
+com\example\meu_primeiro_springboot\repository\UsuarioRepository.class
+com\example\meu_primeiro_springboot\Service\ProdutoService.class
+com\example\meu_primeiro_springboot\Service\UsuarioService.class
+com\example\meu_primeiro_springboot\model\Produto.class
+com\example\meu_primeiro_springboot\repository\ProdutoRepository.class
+com\example\meu_primeiro_springboot\exceptions\RecursoNaoEncontradoException.class
